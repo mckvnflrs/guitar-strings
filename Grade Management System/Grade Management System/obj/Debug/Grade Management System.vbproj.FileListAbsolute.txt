@@ -1,0 +1,109 @@
+C:\Users\Kevin\AppData\Local\Temporary Projects\Grade Management System\bin\Debug\Grade Management System.exe
+C:\Users\Kevin\AppData\Local\Temporary Projects\Grade Management System\bin\Debug\Grade Management System.pdb
+C:\Users\Kevin\AppData\Local\Temporary Projects\Grade Management System\bin\Debug\Grade Management System.xml
+C:\Users\Kevin\AppData\Local\Temporary Projects\Grade Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kevin\AppData\Local\Temporary Projects\Grade Management System\obj\Debug\Grade_Management_System.Resources.resources
+C:\Users\Kevin\AppData\Local\Temporary Projects\Grade Management System\obj\Debug\Grade Management System.vbproj.GenerateResource.Cache
+C:\Users\Kevin\AppData\Local\Temporary Projects\Grade Management System\obj\Debug\Grade Management System.exe
+C:\Users\Kevin\AppData\Local\Temporary Projects\Grade Management System\obj\Debug\Grade Management System.xml
+C:\Users\Kevin\AppData\Local\Temporary Projects\Grade Management System\obj\Debug\Grade Management System.pdb
+C:\Users\Kevin\AppData\Local\Temporary Projects\Grade Management System\obj\Debug\Grade_Management_System.MainForm.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade Management System.exe
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade Management System.xml
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade Management System.pdb
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\bin\Debug\Grade Management System.exe
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\bin\Debug\Grade Management System.pdb
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\bin\Debug\Grade Management System.xml
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.MainForm.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.Resources.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade Management System.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.LoginForm.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\bin\Debug\Grade Management System.exe.manifest
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\bin\Debug\Grade Management System.application
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade Management System.exe.manifest
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade Management System.application
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.Resource1.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.bufferingForm.resources
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade Management System.exe
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade Management System.xml
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade Management System.pdb
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.addStudentsRegisterForm.resources
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.manageSubjectForm.resources
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.AdminRegistrationForm.resources
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.editStudentRegisterForm.resources
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.LoginForm.resources
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.MainForm.resources
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.Resources.resources
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.ProfessorsListForm.resources
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.ProfRegisterForm.resources
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.Resource1.resources
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.bufferingForm.resources
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.studentMainForm.resources
+C:\Users\Jepoy\Desktop\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade Management System.vbproj.GenerateResource.Cache
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.addStudentsRegisterForm.resources
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.manageSubjectForm.resources
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.AdminRegistrationForm.resources
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.editStudentRegisterForm.resources
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.LoginForm.resources
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.MainForm.resources
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.Resources.resources
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.ProfessorsListForm.resources
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.ProfRegisterForm.resources
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.Resource1.resources
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.bufferingForm.resources
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.studentMainForm.resources
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade Management System.vbproj.GenerateResource.Cache
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade Management System.exe
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade Management System.xml
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade Management System.pdb
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\bin\Debug\Grade Management System.exe.config
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\bin\Debug\Grade Management System.exe.manifest
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\bin\Debug\Grade Management System.application
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\bin\Debug\Grade Management System.exe
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\bin\Debug\Grade Management System.pdb
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\bin\Debug\Grade Management System.xml
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade Management System.exe.manifest
+C:\Users\mackalabaw\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade Management System.application
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\bin\Debug\Grade Management System.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.manageSubjectForm.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.addStudentsForm.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.editStudentsForm.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.manageStudentForm.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.registerAdminForm.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.addProfessorsForm.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.gradeManagementForm.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.listProfessorsForm.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.listStudentForm.resources
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.listStudentForm2.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\bin\Debug\Grade Management System.exe.config
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade Management System.exe
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade Management System.xml
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade Management System.pdb
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.addStudentsForm.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.gradeManagementForm.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.listStudentForm2.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.manageStudentForm.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.manageSubjectForm.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.registerAdminForm.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.editStudentsForm.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.LoginForm.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.MainForm.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.Resources.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.listProfessorsForm.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.addProfessorsForm.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.Resource1.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.bufferingForm.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.listStudentForm.resources
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade Management System.vbproj.GenerateResource.Cache
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\bin\Debug\Grade Management System.exe.manifest
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\bin\Debug\Grade Management System.application
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\bin\Debug\Grade Management System.exe
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\bin\Debug\Grade Management System.pdb
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\bin\Debug\Grade Management System.xml
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade Management System.exe.manifest
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade Management System.application
+C:\Users\Kmacalalag\Desktop\From Kevs\Grade Management System\Grade Management System\Grade Management System\obj\Debug\Grade_Management_System.AboutUsForm.resources

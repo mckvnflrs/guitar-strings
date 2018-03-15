@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Grade Management System.exe" version="0.0.0.1" publicKeyToken="446aa2737be94084" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Icon1.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Grade Management System" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Grade Management System.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Grade Management System.exe" size="1145856">
+      <assemblyIdentity name="Grade Management System" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>oSKN3W22TZssCiLq/RCE8pAj5sw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Icon1.ico" size="4974">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3uxEyF5S2tyI8Tu1ZxuJBySK1SU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Logic\Kevin" issuerKeyHash="b92e728fd83efccb06b25750c3f17c8fd737e2ad" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>MTPiJjWdAQeP8lwaeVsBM5oDhfw=</DigestValue></Reference></SignedInfo><SignatureValue>khqhU+v+JwGk6KLrAGWCsEgqKGdsSZFDYOcq3En9zF2KXWdAimQ5E5wCOYZnK+G53VSWGWf7kEHNPtcS1qUCxLzL7kQb7SSZIgZc0txiUg/RVT5dVkFd52+NCH2KWSYEcoEtvt022Vsq1j2KZissE3SgA13BcV0QSK5BMnEuSyg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>o1y6nnSIXFXal7zGwXLX6PN4U4h/RFGRGqzQKDBMUwATMonOq44SBDTdpnBe2L3TzfV7CNc8BzyL2UhR8/bVB+3xQUehFWwl3IULng6K9wnv4QjVKWc25PsLVQN7GsL5bq9gu8FalHsQcPGndcL2ZDu2AkeIuemi0S97F/8ogRk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="fc85039a33015b791a5cf28f07019d3526e23331" Description="" Url=""><as:assemblyIdentity name="Grade Management System.exe" version="0.0.0.1" publicKeyToken="446aa2737be94084" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Logic\Kevin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3c3NGtslTkiOsf/9azJMPAm4ARI=</DigestValue></Reference></SignedInfo><SignatureValue>MyyXeeD6aBlxNRd4fNgV8+LcZnGidXk84G10UMUYg79SRIIwS9VbkyB6ACm8RAwPiOih0LQM9oc977amNuMR4OV47ldSVYhR5CweZXDTiDble4CS9OjRXTq/kqjFl3qjGzGTsjX2QXevPLDFs57rId0EZaXR9yEgglzB2oGvAK4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>o1y6nnSIXFXal7zGwXLX6PN4U4h/RFGRGqzQKDBMUwATMonOq44SBDTdpnBe2L3TzfV7CNc8BzyL2UhR8/bVB+3xQUehFWwl3IULng6K9wnv4QjVKWc25PsLVQN7GsL5bq9gu8FalHsQcPGndcL2ZDu2AkeIuemi0S97F/8ogRk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQTJmbmF11Fo1CcAgpY6AWYTANBgkqhkiG9w0BAQUFADAhMR8wHQYDVQQDHhYATABvAGcAaQBjAFwASwBlAHYAaQBuMB4XDTE4MDIxMjA5MTk0OVoXDTE5MDIxMjE1MTk0OVowITEfMB0GA1UEAx4WAEwAbwBnAGkAYwBcAEsAZQB2AGkAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAo1y6nnSIXFXal7zGwXLX6PN4U4h/RFGRGqzQKDBMUwATMonOq44SBDTdpnBe2L3TzfV7CNc8BzyL2UhR8/bVB+3xQUehFWwl3IULng6K9wnv4QjVKWc25PsLVQN7GsL5bq9gu8FalHsQcPGndcL2ZDu2AkeIuemi0S97F/8ogRkCAwEAATANBgkqhkiG9w0BAQUFAAOBgQA1naykNe2UhI9FTt4d4m4c0jd7OUh6VElvDiiFXS8FBqiGCXkjtIk7xlGbfKN8410CSUj2Vm2nXPNELRieWfwgNo+MCkeEFQDnwD/Cz9cxkWwpPA9VUkyDaLH6IkWzhHnUnRv/udhKKkpYp2XONn3hratZxH2g6s6at8ZIwk6bmw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
